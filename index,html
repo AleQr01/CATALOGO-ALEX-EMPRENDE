@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Catálogo | Alex Emprende</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Alex Emprende</h1>
+  <p>Catálogo oficial de productos disponibles</p>
+</header>
+
+<main class="catalogo">
+
+  <div class="producto">
+    <img src="img/airpods.jpg" alt="AirPods Pro 2da generación">
+    <h2>AirPods Pro – 2.ª Generación</h2>
+    <p>
+      Audífonos inalámbricos de alta calidad con cancelación activa de ruido,
+      sonido envolvente, estuche de carga y excelente duración de batería.
+      Compatibles con Android y iPhone.
+    </p>
+    <span class="precio">$25</span>
+    <a class="btn" href="https://wa.me/593964235839" target="_blank">
+      Comprar por WhatsApp
+    </a>
+  </div>
+
+</main>
+
+<footer>
+  <p>Entregas personales | Contacto directo</p>
+</footer>
+
+</body>
+</html>
